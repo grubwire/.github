@@ -1,4 +1,4 @@
-## grubwire
+## Grubwire
 
 small studio. strong opinions about software.
 
