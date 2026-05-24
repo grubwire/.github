@@ -2,7 +2,7 @@
 
 Grubwire is An independent software studio, with a goal of building apps that do what they say, don't ask for a subscription, and are enjoyed by all.
 
-**[grubwire.io](https://grubwire.io)**
+**[grubwire.io](https://Grubwire.io)**
 
 ---
 
